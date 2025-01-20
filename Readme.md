@@ -20,4 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravishkaw&show_icons=true&locale=en&theme=tokyonight" alt="ravishkaw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravishkaw&theme=tokyonight" alt="ravishkaw" /></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ravishkaw&theme=transparent" alt="GitHub Streak" /></a></p>
