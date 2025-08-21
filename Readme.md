@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravishkaw&theme=tokyonight&title=-Issues,-Stars,-Reviews" alt="ravishkaw" /></a> </p>
 
-- 🌱 I’m currently learning **SPRING**
+- 🌱 I’m currently learning **MERN**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
